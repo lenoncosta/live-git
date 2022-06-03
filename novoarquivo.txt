@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 dasddasdasdsaddssdsdsds1
+=======
+dssdsdsds1
+
+meu gato pos um ovo
+>>>>>>> 49697aa54a743f5fd5228b6b742275fd76c287bf
